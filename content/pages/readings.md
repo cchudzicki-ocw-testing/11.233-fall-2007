@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about required and recommended books
+  for the class, and weekly readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

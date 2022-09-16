@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about assignments for the course, including
+  Credit-No Credit Assignments (CNC) and Letter Grade Assignments (LG).
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
